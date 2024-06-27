@@ -4,10 +4,10 @@
   "description": "A C# Robotic Enterprise Framework that reads a tabular data datasource.",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.23.3-preview]",
-    "UiPath.System.Activities": "[24.5.0-preview]",
-    "UiPath.Testing.Activities": "[24.4.0-preview]",
-    "UiPath.UIAutomation.Activities": "[24.4.2-preview]"
+    "UiPath.Excel.Activities": "[2.23.4]",
+    "UiPath.System.Activities": "[24.10.3]",
+    "UiPath.Testing.Activities": "[24.10.0]",
+    "UiPath.UIAutomation.Activities": "[24.10.1]"
   },
   "webServices": [],
   "entitiesStores": [],
